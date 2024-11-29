@@ -1,8 +1,13 @@
-# React + Vite
+The application uses JWT Token to authenticate the user. The user must register himself, after login using the credential, then click on the protected link, If you are a valid login user then you can see your name there, else it will show access denied.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend link:
+https://cute-moonbeam-2b2726.netlify.app/
 
-Currently, two official plugins are available:
+Backend link:
+https://autherntication-backend.vercel.app/protected
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Backend github repo link:
+https://github.com/shreekantyadav007/autherntication_backend.git
+
+
+![image](https://github.com/user-attachments/assets/35ff3599-086f-48e2-a602-d6f1e4f812a6)
