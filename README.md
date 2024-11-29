@@ -1,4 +1,4 @@
-The application uses JWT Token to authenticate the user. The user must register himself, after login using the credential, then click on the protected link, If you are a valid login user then you can see your name there, else it will show access denied.
+The application uses JWT Token to authenticate the user. The user must register himself, after login use the credential, then click on the protected link, If you are a valid login user then you can see your name there, else it will show access denied.
 
 Frontend link:
 https://cute-moonbeam-2b2726.netlify.app/
